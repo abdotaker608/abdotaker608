@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abdotaker608@gmail.com**
 
-- 📄 Know about my experiences [https://res.cloudinary.com/dfseyvauo/image/upload/v1652622848/portfolio-v2/CVs/vo3a9fiuhjt1iqroqdhr.pdf](Resume)
+- 📄 Know about my experiences [Resume](https://res.cloudinary.com/dfseyvauo/image/upload/v1652622848/portfolio-v2/CVs/vo3a9fiuhjt1iqroqdhr.pdf)
 
 - ⚡ Fun fact **It works on my computer**
 
