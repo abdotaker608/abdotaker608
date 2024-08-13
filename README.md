@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdotaker608&label=Profile%20views&color=0e75b6&style=flat" alt="abdotaker608" /> </p>
 
-- 🔭 I’m currently working on **Frontastic components library**
+- 🔭 I’m currently working on **CoFe launchpads development**
 
-- 🌱 I’m currently learning **Neural networks with Javascript**
+- 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [https://eldababa-portfolio.vercel.app/](https://eldababa-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://eldababa.dev/](https://eldababa.dev/)
 
 - 💬 Ask me about **anything Javascript related!**
 
 - 📫 How to reach me **abdotaker608@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://res.cloudinary.com/dfseyvauo/image/upload/v1667115385/portfolio-v2/CVs/pywj62g4thzrtjiamx9y.pdf)
+- 📄 Know about my experiences [Resume](https://res.cloudinary.com/dfseyvauo/image/upload/v1718354282/portfolio-v2/CVs/ssginrjmp80v1fbnxqon.pdf)
 
 - ⚡ Fun fact **It works on my computer**
 
