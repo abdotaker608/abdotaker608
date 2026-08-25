@@ -1,28 +1,262 @@
-<h1 align="center">Hi 👋, I'm Abdu</h1>
-<h3 align="center">A Passionated Full-Stack JS Developer</h3>
+# `> whoami`
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdotaker608&label=Profile%20views&color=0e75b6&style=flat" alt="abdotaker608" /> </p>
+<div align="center">
 
-- 🔭 I’m currently working on **CoFe launchpads development**
+```text id="g3k2ma"
+ █████╗ ██████╗ ██████╗ ██╗   ██╗
+██╔══██╗██╔══██╗██╔══██╗██║   ██║
+███████║██████╔╝██║  ██║██║   ██║
+██╔══██║██╔══██╗██║  ██║██║   ██║
+██║  ██║██████╔╝██████╔╝╚██████╔╝
+╚═╝  ╚═╝╚═════╝ ╚═════╝  ╚═════╝
+```
 
-- 🌱 I’m currently learning **Javascript**
+### SENIOR SOFTWARE ENGINEER
 
-- 👨‍💻 All of my projects are available at [https://eldababa.dev/](https://eldababa.dev/)
+**I don't just ship features. I engineer systems.**
 
-- 💬 Ask me about **anything Javascript related!**
+`Full-Stack` · `Distributed Systems` · `AI Engineering` · `System Design` · `Cloud`
 
-- 📫 How to reach me **abdotaker608@gmail.com**
+<br>
 
-- 📄 Know about my experiences [Resume](https://res.cloudinary.com/dfseyvauo/image/upload/v1718354282/portfolio-v2/CVs/ssginrjmp80v1fbnxqon.pdf)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=700\&size=20\&duration=2500\&pause=700\&center=true\&vCenter=true\&width=750\&lines=Building+systems+that+survive+production.;Turning+coffee+into+distributed+systems.;Making+the+complex+look+simple.;Ship.+Measure.+Break.+Improve.+Repeat.)
 
-- ⚡ Fun fact **It works on my computer**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abdelrahman-khaled-304b1b1a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman-khaled-304b1b1a3" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16571387" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16571387" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abdotaker608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdotaker608" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+## `01 // THE ENGINEER`
+
+```ts id="j8t3nu"
+const abdu = {
+  role: "Senior Software Engineer",
+  location: "Egypt 🇪🇬",
+
+  focus: [
+    "Scalable Web Systems",
+    "Backend Architecture",
+    "AI-Powered Applications",
+    "Developer Experience",
+    "Performance Engineering",
+  ],
+
+  currentMission: "Build software people actually want to use.",
+
+  philosophy: {
+    architecture: "Simple until complexity earns its place.",
+    code: "Readable > clever.",
+    performance: "Measure. Don't guess.",
+    security: "A requirement, not a feature.",
+    shipping: "Done beats perfect. Then iterate.",
+  },
+
+  status: "BUILDING",
+} as const;
+```
+
+I build products **end-to-end** — from the first database table and API boundary to the final pixel users interact with.
+
+My sweet spot is where **product engineering, architecture, performance, and AI** collide.
+
+---
+
+## `02 // SYSTEM LOADOUT`
+
+<div align="center">
+
+### ⚡ CORE
+
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge\&logo=typescript\&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge\&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge\&logo=node.js)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge\&logo=nextdotjs)
+
+### 🧠 AI / AGENTS
+
+![LangChain](https://img.shields.io/badge/LangChain-000?style=for-the-badge\&logo=langchain)
+![OpenAI](https://img.shields.io/badge/LLMs-000?style=for-the-badge\&logo=openai\&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_AGENTS-000?style=for-the-badge\&logo=probot)
+![RAG](https://img.shields.io/badge/RAG-000?style=for-the-badge\&logo=databricks)
+
+### 🗄️ DATA
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge\&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge\&logo=mongodb)
+![Prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge\&logo=prisma)
+![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge\&logo=redis)
+
+### ☁️ INFRASTRUCTURE
+
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge\&logo=docker)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-000?style=for-the-badge\&logo=googlecloud)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge\&logo=vercel)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge\&logo=linux)
+
+</div>
+
+---
+
+## `03 // HOW I THINK`
+
+```mermaid id="i6qn9c"
+flowchart LR
+    A["💡 Problem"] --> B["🧠 Understand"]
+    B --> C["🏗️ Design"]
+    C --> D["⚡ Build"]
+    D --> E["🧪 Test"]
+    E --> F["🚀 Ship"]
+    F --> G["📊 Observe"]
+    G --> H["🔥 Improve"]
+    H --> B
+```
+
+> **The best architecture isn't the most impressive one.
+> It's the simplest architecture that reliably solves the problem.**
+
+I care about:
+
+* ⚡ **Performance** — fast systems create better products.
+* 🧱 **Architecture** — boundaries should make tomorrow easier.
+* 🔐 **Security** — trust has to be engineered.
+* 📈 **Observability** — production shouldn't be a black box.
+* 🧪 **Reliability** — happy paths are the easy part.
+* 🧹 **Maintainability** — future engineers are users too.
+* 🎯 **Product impact** — code exists to solve problems.
+
+---
+
+## `04 // CURRENT OPERATING MODE`
+
+```yaml id="2jxds4"
+engineer:
+  level: senior
+
+  mode:
+    - BUILD
+    - SHIP
+    - LEARN
+    - REPEAT
+
+  currently_exploring:
+    - Agentic AI systems
+    - RAG architectures
+    - Knowledge graphs
+    - Secure LLM applications
+    - Distributed workflows
+    - Event-driven systems
+
+  optimization_target:
+    latency: ↓
+    complexity: ↓
+    reliability: ↑
+    developer_experience: ↑
+    business_value: ↑↑↑
+```
+
+---
+
+## `05 // THE STACK IS NOT THE SKILL`
+
+Frameworks change.
+
+Libraries disappear.
+
+Today's best practice becomes tomorrow's legacy migration.
+
+The real skill is knowing how to:
+
+```text id="v5m0ak"
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│   UNDERSTAND → DESIGN → BUILD → DEBUG → OPERATE      │
+│                                                      │
+│           ...and know when NOT to build.             │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+
+---
+
+## `06 // ENGINEERING DNA`
+
+```text id="rb2e5p"
+╭─────────────────────────────────────────────────────────╮
+│                                                         │
+│   FRONTEND        ███████████████████░   PRODUCT UI     │
+│   BACKEND         ████████████████████   SYSTEMS        │
+│   DATABASES       ██████████████████░░   DATA           │
+│   ARCHITECTURE    ████████████████████   SCALE          │
+│   DEVOPS          ████████████████░░░░   SHIPPING       │
+│   AI / LLMs       ██████████████████░░   BUILDING       │
+│                                                         │
+╰─────────────────────────────────────────────────────────╯
+```
+
+---
+
+## `07 // GITHUB TELEMETRY`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdotaker608&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdotaker608&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdotaker608&bg_color=00000000&color=8B949E&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%" />
+
+</div>
+
+---
+
+## `08 // WHEN PRODUCTION BREAKS`
+
+```bash id="6q9v7u"
+$ kubectl get pods
+
+NAME                         READY    STATUS
+api-7f8d9b6c5-xk2pq          1/1      Running
+worker-6c7d8f9b4-mn8rs       1/1      Running
+abdu                         0/1      CoffeeNotFound
+```
+
+```bash id="r1x8la"
+$ kubectl logs abdu
+
+[WARN] caffeine levels below operational threshold
+[INFO] attempting recovery...
+[INFO] coffee acquired ☕
+[SUCCESS] senior engineer restored
+```
+
+---
+
+## `09 // LET'S BUILD SOMETHING`
+
+<div align="center">
+
+### Have an interesting engineering problem?
+
+**I'm probably interested.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/abdelrahman-khaled-304b1b1a3/)
+[![Email](https://img.shields.io/badge/Email-SAY_HELLO-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:abdotaker608@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-abdotaker608-181717?style=for-the-badge\&logo=github)](https://github.com/abdotaker608)
+
+<br>
+
+```text id="7v3s9k"
+while (alive) {
+    learn();
+    build();
+    ship();
+}
+```
+
+### `SYSTEM STATUS: ONLINE 🟢`
+
+<sub>Engineered with questionable amounts of caffeine.</sub>
+
+</div>
